@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jhaashish_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jhaashish_dev?logo=twitter&style=for-the-badge" alt="jhaashish_dev" /></a> </p>
 <!--<img align="right" alt="gif" width="400" src="https://thumbs.gfycat.com/DecimalMetallicAphid-size_restricted.gif">-->
-![side-gif](/assets/gh-banner.png)
+![side-gif](./assets/gh-banner.png){:width="400"}
 
 - 🔭 I’m currently working on **Social Media clone**
 
