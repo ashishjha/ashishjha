@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jhaashish_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jhaashish_dev?logo=twitter&style=for-the-badge" alt="jhaashish_dev" /></a> </p>
 <!--<img align="right" alt="gif" width="400" src="https://thumbs.gfycat.com/DecimalMetallicAphid-size_restricted.gif">-->
-[![side-gif](./assets/gh-banner.png)]
+
 
 - 🔭 I’m currently working on **Social Media clone**
 
@@ -41,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishjha&show_icons=true&locale=en" alt="ashishjha"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjha&" alt="ashishjha" /></p>
+![side-gif](./assets/gh-banner.png)
