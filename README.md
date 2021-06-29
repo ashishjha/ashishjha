@@ -41,4 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishjha&show_icons=true&locale=en" alt="ashishjha"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjha&" alt="ashishjha" /></p>
-![side-gif](./assets/gh-banner.png)
+[![MasterHead](./assets/gh-banner.png)](https://ashishjha.co.in/)
