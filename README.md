@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishjha" alt="ashishjha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jhaashish_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jhaashish_dev?logo=twitter&style=for-the-badge" alt="jhaashish_dev" /></a> </p>
-<img align="right" alt="gif" width="400" src="https://thumbs.gfycat.com/DecimalMetallicAphid-size_restricted.gif">
+<!--<img align="right" alt="gif" width="400" src="https://thumbs.gfycat.com/DecimalMetallicAphid-size_restricted.gif">-->
 <img align="right" alt="gif" width="400" src="![side-gif](https://github.com/ashishjha/ashishjha/blob/main/side-gif-bgr.gif?raw=true)">
 
 
