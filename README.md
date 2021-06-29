@@ -1,3 +1,5 @@
+[![MasterHead](./assets/gh-banner.png)](https://ashishjha.co.in/)
+
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
 <h3 align="center">A CSE student who loves to spend most of the day, experimenting with HTML, CSS, JavaScript (and its endless list of frameworks) and a chef by night 😋.</h3>
 
