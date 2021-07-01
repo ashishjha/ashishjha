@@ -17,11 +17,11 @@
 
 - 👯 I’m looking to collaborate on **Frontend/Backend development**
 
-- 👨‍💻 All of my projects are available at [https://ashishjha.co.in/projects.html](https://ashishjha.co.in/projects.html)
+- 👨‍💻 All of my projects are available at [https://ashishjha.co.in/projects](https://ashishjha.co.in/projects)
 
 - 💬 Ask me about **React.js, Node.js**
 
-- 📫 How to reach me **https://ashishjha.co.in/contact.html**
+- 📫 How to reach me **https://ashishjha.co.in/contact**
 
 - ⚡ Fun fact **I'm a memer and a coin collector**
 
