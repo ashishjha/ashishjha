@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React.js, Node.js**
 
-- 📫 How to reach me **ashishjha0603@gmail.com**
+- 📫 How to reach me **https://ashishjha.co.in/contact.html**
 
 - ⚡ Fun fact **I'm a memer and a coin collector**
 
