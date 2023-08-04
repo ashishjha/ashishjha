@@ -1,7 +1,7 @@
 [![MasterHead](./assets/gh-banner.png)](https://ashishjha.co.in/)
 
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
-<h3 align="center">A CSE student who loves to spend most of the day, experimenting with HTML, CSS, JavaScript (and its endless list of frameworks) and a chef by night 😋.</h3>
+<h3 align="center">A Software Engineer who loves to spend most of the day, experimenting with API's and a chef by night 😋.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishjha&label=Profile%20views&color=0e75b6&style=flat" alt="ashishjha" /> </p>
 
@@ -11,15 +11,15 @@
 <img align="right" alt="gif" width="400" src="https://thumbs.gfycat.com/DecimalMetallicAphid-size_restricted.gif">
 
 
-- 🔭 I’m currently working on **Social Media clone**
+- 🔭 I’m currently working on **Optimizing CI-CD**
 
-- 🌱 I’m currently learning **MERN Stack, Azure, AWS**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **Frontend/Backend development**
+<!-- - 👯 I’m looking to collaborate on **Frontend/Backend development** -->
 
 - 👨‍💻 All of my projects are available at **[https://ashishjha.co.in/projects](https://ashishjha.co.in/projects)**
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **MuleSoft, API'S, Integration**
 
 - 📫 How to reach me **https://ashishjha.co.in/contact**
 
